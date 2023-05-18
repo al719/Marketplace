@@ -39,11 +39,11 @@ pip install djangorestframework
 ```
 python manage.py makemigrations
 ```
-9. apply migrations
+11. apply migrations
 ```
 python manage.py migrate
 ```
-10. run server
+12. run server
 ```
 python manage.py runserver
 ```
